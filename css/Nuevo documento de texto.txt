@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="./style2.css">
+    <style>
+        
+        h1{
+           color:rgb(0,255,0) ;
+           background-color: rgb(231, 207, 96);
+           font-size: 28px;
+        }
+        h3{
+            color:rgb(52, 40, 214) ;
+           background-color: rgb(231, 207, 96);
+           font-size: 28px; 
+        }
+        </style>   
