@@ -1,0 +1,65 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        
+        /* Listas ordenadas */
+        ol {
+            margin: 20px 0;
+            padding-left: 20px;
+        }
+        
+        /* Listas desordenadas */
+        ul {
+            margin: 20px 0;
+            padding-left: 20px;
+        }
+        
+        /* Listas de definición */
+        dl {
+            margin: 20px 0;
+            padding-left: 20px;
+        }
+        
+        dt {
+            font-weight: bold;
+            color: #444;
+        }
+        
+        dd {
+            margin-left: 20px;
+            color: #555;
+        }
+        
+        /* Estilos de la tabla */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        
+        th, td {
+            padding: 10px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        
+        tr:hover {
+            background-color: #ddd;
+        }
